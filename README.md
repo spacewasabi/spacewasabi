@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @spacewasabi
 - 👀 I’m interested in Frontend and Backend development for web as well as GameDev
 - 🌱 I’m currently learning ReactJS at work and WebGL at home
-- 💞️ I’m looking to collaborate on whatever
+- ✨ I’m looking to collaborate on whatever
 
 <!-- 
 - 📫 How to reach me 

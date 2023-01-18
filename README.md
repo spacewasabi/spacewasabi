@@ -4,7 +4,7 @@
 - ✨ I’m looking to collaborate on whatever
 - 📫 How to reach me : you can send an email to nelson.cvlhr@gmail.com
 
-[![Anurag's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=spacewasabi&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=spacewasabi&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Anurag's GitHub stats](https://github-readme-stats-spacewasabi.vercel.app/api?username=spacewasabi&show_icons=true&theme=chartreuse-dark)
 <!---

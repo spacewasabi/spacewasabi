@@ -18,6 +18,14 @@
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![BackBoneJS](https://img.shields.io/badge/backbone%20js-0071B5?style=for-the-badge&logo=backbone.js&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white) ![GODOT](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![RubyOnRails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
+## Blogging
+
+Find random stuff I write about on Gemini => gemini://gemlog.blue/users/wasabi/
+
+You can write your own on [gemlog.blue](https://gemlog.blue)
+
+And if you don't know how to navigate on Gemini, you can use the [Lagrange](https://github.com/skyjake/lagrange) browser.
+
 ## Stats (because who doesn't like stats?)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=spacewasabi&theme=chartreuse-dark)

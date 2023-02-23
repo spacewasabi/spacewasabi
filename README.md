@@ -23,14 +23,28 @@ LOOKING FOR JOB OPPORTUNITIES IN PARIS, FRANCE
 
 ## Blogging
 
+<details>
+<summary>Gemlog</summary>
+
 Find random stuff I write about on Gemini => gemini://gemlog.blue/users/wasabi/
 
 You can write your own on [gemlog.blue](https://gemlog.blue)
 
 And if you don't know how to navigate on Gemini, you can use the [Lagrange](https://github.com/skyjake/lagrange) browser.
+</details>
 
 ## Stats (because who doesn't like stats?)
 
+<details>
+<summary>Github activity graph</summary>
+  
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=spacewasabi&theme=chartreuse-dark)
+  
+</details>
 
+<details>
+<summary>Github stats</summary>
+  
 ![Anurag's GitHub stats](https://github-readme-stats-spacewasabi.vercel.app/api?username=spacewasabi&show_icons=true&theme=chartreuse-dark)
+  
+</details>

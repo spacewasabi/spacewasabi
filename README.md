@@ -2,9 +2,12 @@
 
 - 👋 Hi, I’m @spacewasabi
 - 👀 I’m interested in Frontend and Backend development for web as well as GameDev
-- 🌱 I’m currently learning ReactJS at work, WebGL & GraphQL at home
 - ✨ I’m looking to collaborate on whatever
 - 📫 How to reach me : you can send an email to nelson.cvlhr@gmail.com
+
+```RobotFramework
+LOOKING FOR JOB OPPORTUNITIES IN PARIS, FRANCE
+```
 
 ## Most efficient on this stack
 

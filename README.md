@@ -33,18 +33,6 @@ LOOKING FOR JOB OPPORTUNITIES IN PARIS, FRANCE
   You can find them here : https://github.com/alexandresanlim/Badges4-README.md-Profile
 </details>
 
-## Blogging
-
-<details>
-<summary>Gemlog</summary>
-
-Find random stuff I write about on Gemini => gemini://gemlog.blue/users/wasabi/
-
-You can write your own on [gemlog.blue](https://gemlog.blue)
-
-And if you don't know how to navigate on Gemini, you can use the [Lagrange](https://github.com/skyjake/lagrange) browser.
-</details>
-
 ## Stats (because who doesn't like stats?)
 
 <details>

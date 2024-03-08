@@ -36,7 +36,7 @@ LOOKING FOR JOB OPPORTUNITIES IN PARIS, FRANCE
 ## Stats (because who doesn't like stats?)
 
 <details>
-<summary>Github stats</summary>
+<summary>Github public stats</summary>
   
 ![Anurag's GitHub stats](https://github-readme-stats-spacewasabi.vercel.app/api?username=spacewasabi&show_icons=true&theme=chartreuse-dark)
   
